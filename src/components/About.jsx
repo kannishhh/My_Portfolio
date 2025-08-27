@@ -14,7 +14,7 @@ const About = () => {
         viewport={{ once: true }}
       >
         <img
-          src="../../public/profile_photo.png" 
+          src="/profile_photo.png" 
           alt="Profile"
           className="w-full h-full object-cover"
         />
@@ -41,7 +41,7 @@ const About = () => {
 
         <div className="mt-6 flex gap-4 justify-center md:justify-start">
           <a
-            href="../../public/Kanish Kainth_Resume.pdf"
+            href="/Kanish Kainth_Resume.pdf"
             download={"Kanish Kainth_Resume.pdf"}
             className="px-6 py-3 rounded-full bg-indigo-500 hover:bg-indigo-600 transition"
           >
