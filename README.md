@@ -23,7 +23,7 @@ It showcases my skills, projects, and experiences as a **Frontend Developer & AI
 ---
 
 ## 📸 Preview  
-![Portfolio Preview](./image1.png)
+![Portfolio Preview](public/image1.png)
 
 ---
 
